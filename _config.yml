@@ -8,7 +8,7 @@
 # Site settings
 title: 2X SDK
 description: 'The official release of the SDK for 2X series scanners made by Shining3D' # write a nice description for your blog
-baseurl: 'sdk.sn3d.tech' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 
