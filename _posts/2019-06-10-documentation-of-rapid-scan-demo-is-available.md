@@ -11,6 +11,6 @@ At present, we have sorted out an instruction document on the use of rapid scan 
 
 Below is a link to the two pdf documents for rapid scan instructions, you can download it if you need it.
 
-- [SDK_RapidScan_Demo_Description_Doucument  (Chinese)](\assets\pdf\RapidScan\SDK_RapidScan_Demo说明文档.pdf)
-- [SDK_RapidScan_Demo_Description_Doucument  (English)](\assets\pdf\RapidScan\SDK_RapidScan_Demo_Description_Document.pdf)
+- [SDK_RapidScan_Demo_Description_Doucument  (Chinese)](/assets/pdf/RapidScan/SDK_RapidScan_Demo说明文档.pdf)
+- [SDK_RapidScan_Demo_Description_Doucument  (English)](/assets/pdf/RapidScan/SDK_RapidScan_Demo_Description_Document.pdf)
 
