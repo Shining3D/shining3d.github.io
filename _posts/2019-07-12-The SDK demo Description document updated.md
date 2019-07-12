@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SDK Demo has been Update.
+title: SDK Demo has been updated.
 ---
 
 We are very grateful to the developers who have been paying attention to the scan SDK and  pointing out bugs and giving suggestions. After our efforts, we have improved the three demos of scan in terms of interface interaction and function usage. In addition, as our ProSDK which supports Pro/Pro+ has also released, the RapidScan demo also includes the usage of that SDK to manipulate Pro/Pro+. 
