@@ -12,10 +12,10 @@ In RapidScan Demo, 2X device is used by default. If you want to scan with Pro/Pr
 
 Following are the documentations of our three Demos.
 
-- [SDK_RapidScan_Demo_Description_Doucument  (Chinese)](assets\pdf\RapidScan\2019_07_12_RapidScan_Demo说明文档.pdf)
-- [SDK_RapidScan_Demo_Description_Doucument  (English)](assets\pdf\RapidScan\2019_07_12_RapidDemo.pdf)
-- [SDK_FixScan_Demo_Description_Doucument  (Chinese)](assets\pdf\FixScan\2019_07_12_FixScan_Demo_说明文档.pdf)
-- [SDK_FixScan_Demo_Description_Doucument  (English)](assets\pdf\FixScan\2019_07_12_FixScanDemo.pdf)
-- [SDK_Calibration_Demo_Description_Doucument  (Chinese)](assets\pdf\Calibration\2019_07_12_Calibration_Demo_说明文档.pdf)
-- [SDK_Calibration_Demo_Description_Doucument  (English)](assets\pdf\Calibration\2019_07_12_CalibrationDemo.pdf)
+- [SDK_RapidScan_Demo_Description_Doucument  (Chinese)](/assets/pdf/RapidScan/2019_07_12_RapidScan_Demo说明文档.pdf)
+- [SDK_RapidScan_Demo_Description_Doucument  (English)](/assets/pdf/RapidScan/2019_07_12_RapidDemo.pdf)
+- [SDK_FixScan_Demo_Description_Doucument  (Chinese)](/assets/pdf/FixScan/2019_07_12_FixScan_Demo_说明文档.pdf)
+- [SDK_FixScan_Demo_Description_Doucument  (English)](/assets/pdf/FixScan/2019_07_12_FixScanDemo.pdf)
+- [SDK_Calibration_Demo_Description_Doucument  (Chinese)](/assets/pdf/Calibration/2019_07_12_Calibration_Demo_说明文档.pdf)
+- [SDK_Calibration_Demo_Description_Doucument  (English)](/assets/pdf/Calibration/2019_07_12_CalibrationDemo.pdf)
 
