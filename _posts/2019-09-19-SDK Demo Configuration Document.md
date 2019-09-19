@@ -1,8 +1,8 @@
-# SDK Demo Configuration Document
+# SDK Demo Configuration
 
-Three demos of SDK have been provided before, the three Demos can be compiled by Cmake to generate corresponding projects. If you are not sure how to configure the project, the following may be helpful to you. We take the RapicScan Demo as an example to provide configuration instructions. 
+  CMake is a powerful tool to organize projects in a universal format. All of our three demos are based on CMake. This post will show you how to use CMake to compile our demos.
 
-The other two Demos can also be configured for reference.Here is the RapidScan demo configuration documentation.
+Let's take the rapid scan demo as an example. The configuring procedures of CMake are almost the same for all the three demo. The attached documents demonstrate the steps in detail, in both Chinese and English.  
 
 - [SDK_Rapid_Demo configuration_Chinese  ](/assets/pdf/Sdk_demo_configration/sdk_demo_config_chinese.pdf)
 - [SDK_Rapid_Demo configuration_English  ](/assets/pdf/Sdk_demo_configration/sdk_demo_config_english.pdf)
