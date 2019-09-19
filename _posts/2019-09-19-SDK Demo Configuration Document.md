@@ -4,6 +4,6 @@ Three demos of SDK have been provided before, the three Demos can be compiled by
 
 The other two Demos can also be configured for reference.Here is the RapidScan demo configuration documentation.
 
-- [SDK_Rapid_Demo configuration_chinese  ](/assets/pdf/Sdk_demo_configration/sdk_demo_config_chinese.pdf)
-- [SDK_Rapid_Demo configuration_english  ](/assets/pdf/Sdk_demo_configration/sdk_demo_config_english.pdf)
+- [SDK_Rapid_Demo configuration_Chinese  ](/assets/pdf/Sdk_demo_configration/sdk_demo_config_chinese.pdf)
+- [SDK_Rapid_Demo configuration_English  ](/assets/pdf/Sdk_demo_configration/sdk_demo_config_english.pdf)
 
